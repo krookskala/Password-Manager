@@ -5,7 +5,6 @@ A simple password manager console application written in C++. This program allow
 ![Screenshot_10](https://github.com/krookskala/Password-Manager/assets/86527375/286114af-60df-434c-8ede-48127f235f2b)
 
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -14,6 +13,7 @@ A simple password manager console application written in C++. This program allow
 - [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
+
 ## Introduction
 
 This is a console-based password manager written in C++ that allows you to store and manage your passwords securely. It provides features like password generation, searching, sorting, editing, encrypting, decrypting and more.
@@ -54,7 +54,7 @@ Adds a new category that we can use when creating new passwords.
 Deletes the category along with all the passwords assigned to that category.
 
 
-## How To Use
+## HowToUse
 
 - # Clone the Repository : 
 Begin by cloning this repository to your local machine.
@@ -73,7 +73,7 @@ The program employs encryption to protect your stored passwords, ensuring your s
 
 ## Demo
 
-https://github.com/krookskala/Password-Manager/assets/86527375/9c4371ae-b23c-47f1-8706-ba253cabc81b
+https://github.com/krookskala/Password-Manager/assets/86527375/ec3f944b-f115-4eab-b20e-18d32e00171a
 
 ## Contributing
 
